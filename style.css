@@ -11,3 +11,8 @@
   animation-name: dismiss;
   animation-duration: 4s;
 }
+
+#loading,
+#results {
+  display: none;
+}
