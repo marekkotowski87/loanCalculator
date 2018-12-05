@@ -1,0 +1,13 @@
+@keyframes dismiss {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.dis {
+  animation-name: dismiss;
+  animation-duration: 4s;
+}
